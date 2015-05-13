@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>cooDialog</class>
+ <widget class="QDialog" name="cooDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>599</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>0</y>
+     <width>221</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>About Cookies</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>40</y>
+     <width>401</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Cookies&lt;/span&gt; are text files retained on computers by &lt;span style=&quot; font-weight:600;&quot;&gt;browsers&lt;/span&gt;&lt;/p&gt;&lt;p&gt;containing various information in regards to a specific &lt;/p&gt;&lt;p&gt;website visit. Another way to think of this is that a&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;cookie&lt;/span&gt; is a message given to a web &lt;span style=&quot; font-weight:600;&quot;&gt;browser&lt;/span&gt; from a &lt;/p&gt;&lt;p&gt;web server that is then sent back to the web server &lt;/p&gt;&lt;p&gt;whenever the &lt;span style=&quot; font-weight:600;&quot;&gt;browser&lt;/span&gt; requests a page from it.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

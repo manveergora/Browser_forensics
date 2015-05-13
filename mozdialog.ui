@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>mozDialog</class>
+ <widget class="QDialog" name="mozDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>625</width>
+    <height>357</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>20</y>
+     <width>181</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;ABOUT MOZILLA:-&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>60</y>
+     <width>541</width>
+     <height>221</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Mozilla Firefox (known simply as Firefox) is a &lt;/span&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Free_and_open-source_software&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;free and &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Free_and_open-source_software&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;open-source&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Web_browser&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;web browser&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-style:italic;&quot;&gt; developed for &lt;/span&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Microsoft_Windows&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;Windows&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;, &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/OS_X&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;OS X&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;, and &lt;/span&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Linux&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;Linux&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;, with a &lt;/span&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Mobile_computing&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;mobile&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-style:italic;&quot;&gt; version for &lt;/span&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Android_%28operating_system%29&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;Android&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;, &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;by the &lt;/span&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Mozilla_Foundation&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;Mozilla Foundation&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-style:italic;&quot;&gt; and its subsidiary, &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;the &lt;/span&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Mozilla_Corporation&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;Mozilla Corporation&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;. Firefox uses the &lt;/span&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Gecko_%28layout_engine%29&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;Gecko&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Layout_engine&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;layout engine&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-style:italic;&quot;&gt; to render web pages, which implements &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;current and anticipated &lt;/span&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Web_standards&quot;&gt;&lt;span style=&quot; font-style:italic; color:#0000ff;&quot;&gt;web standards&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

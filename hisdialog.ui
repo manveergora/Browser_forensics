@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>hisDialog</class>
+ <widget class="QDialog" name="hisDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>631</width>
+    <height>325</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>0</y>
+     <width>251</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>About history</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>20</y>
+     <width>531</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;In computing, the web &lt;span style=&quot; font-weight:600;&quot;&gt;browsing history&lt;/span&gt; refers to the list &lt;/p&gt;&lt;p&gt;of web pages a user has visited recently—and associated &lt;/p&gt;&lt;p&gt;data such as page title and time of visit—which is recorded &lt;/p&gt;&lt;p&gt;by web &lt;span style=&quot; font-weight:600;&quot;&gt;browser&lt;/span&gt; software as standard for a certain period of time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
